@@ -6,7 +6,7 @@
 ##### 2.Kernel regression.ipynb show the code which would preform kernel regression on the series. 
 ##### 3.Find Min&Max .ipynb would add label on the Max&Min for the next step.
 ##### 4.pattern count.ipynb is the code which present how the tech analysis, while Pattern count.ipynb is the actual code I do the analysis.
-##### 5.Data.csv is the data from Yahoo finance 
+##### 5.defi_data.csv is the data from Yahoo finance 
 
 ##### The code was presented into two part. First we presented kernel regression on price series and second we would check ten pattern which was shown in the paper above. 
 
