@@ -9,5 +9,4 @@
 ##### 5.defi_data.csv is the data from Yahoo finance 
 ##### 6.semi.ipynb is using geometric brownian motion model to make N simulated price series 
 
-##### The code was presented into two part. First we presented kernel regression on price series and second we would check ten pattern which was shown in the paper above. 
 
